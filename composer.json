@@ -1,0 +1,13 @@
+{
+    "name": "complitech/bmi",
+    "description": "This is Complitech First Packges",    
+     "license": "MIT",
+    "authors": [
+        {
+            "name": "Krishna Shah",
+            "email": "krishna@complitech.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
